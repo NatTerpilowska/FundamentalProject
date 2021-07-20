@@ -36,7 +36,5 @@ Refresh
 Link to my Trello Board:
 https://trello.com/b/GemvxO82/project-management
 
-
-![](https://i.imgur.com/NKLxL9B.png)
-
 ![](https://i.imgur.com/0UVNVFe.png)
+![](https://i.imgur.com/NKLxL9B.png)
