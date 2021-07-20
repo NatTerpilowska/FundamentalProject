@@ -40,6 +40,22 @@ Feature-Branch model which will subsequently be built through a CI
 server and deployed to a cloud-based virtual machine.
 
 
+My tech stack will be as follows:
+
+Kanban Board: Trello 
+Database: GCP SQL Server
+Programming language: Python
+Unit Testing with Python (Pytest)
+Integration Testing with Python (Selenium)
+Front-end: Flask (HTML)
+Version Control: Git
+CI Server: Jenkins
+Cloud server: GCP Compute Engine
+
+
+
+
+
 My planned CRUD is as follows:
 
 Read/view
