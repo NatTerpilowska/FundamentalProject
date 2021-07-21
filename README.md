@@ -11,6 +11,7 @@ covered during training." - QA Community
 #### Proposal:
 
 For this project I have decided to develop an app that generates D&D story prompts based on; tarot cards, their symbols and meaning and inspiration from illustrations where the user is able to generate a random card and story and add their own personal ideas.
+I have been thinking about making it a full tarot deck, but have decided to find about 5 most interesting cards and only use those as a minimum.
 
 #### Requirements:
 -A Trello board (or equivalent Kanban board tech) with full expansion
