@@ -81,4 +81,5 @@ Link to my Trello Board:
 https://trello.com/b/GemvxO82/project-management
 
 ![](https://i.imgur.com/0UVNVFe.png)
-![](https://imgur.com/P0CZmaG)
+
+![](https://i.imgur.com/P0CZmaG.png)
