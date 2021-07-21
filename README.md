@@ -4,15 +4,15 @@
 Objective
 My overall objective with this project is the following:
 
-"To create a CRUD application with utilisation of supporting tools,
+>"To create a CRUD application with utilisation of supporting tools,
 methodologies and technologies that encapsulate all core modules
 covered during training." - QA Community
 
-Proposal:
+#### Proposal:
 
 For this project I have decided to develop an app that generates D&D story prompts based on; tarot cards, their symbols and meaning and inspiration from illustrations where the user is able to generate a random card and story and add their own personal ideas.
 
-Requirements:
+#### Requirements:
 -A Trello board (or equivalent Kanban board tech) with full expansion
 on user stories, use cases and tasks needed to complete the project.
 It could also provide a record of any issues or risks that you faced
@@ -40,7 +40,7 @@ Feature-Branch model which will subsequently be built through a CI
 server and deployed to a cloud-based virtual machine.
 
 
-My tech stack will be as follows:
+#### My tech stack will be as follows:
 
 Kanban Board: Trello 
 Database: GCP SQL Server
@@ -56,7 +56,7 @@ Cloud server: GCP Compute Engine
 
 
 
-My planned CRUD is as follows:
+#### My planned CRUD is as follows:
 
 Read/view
 
@@ -72,12 +72,12 @@ Refresh
 
 <p align="center">
   
-# **My Risk Assessment**
+#### **My Risk Assessment**
   </p>
   
 ![](https://i.imgur.com/RRHV86p.png)
 
-Link to my Trello Board:
+#### Link to my Trello Board:
 https://trello.com/b/GemvxO82/project-management
 
 ![](https://i.imgur.com/0UVNVFe.png)
