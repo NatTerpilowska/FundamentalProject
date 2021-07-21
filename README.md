@@ -87,4 +87,4 @@ My planned ER looked as follows, hovewer - half way through making it I realised
 ![](https://i.imgur.com/0UVNVFe.png)
 
 Below is my finished ER diagram and how I would like my database to look like. It's simplified and I find that it suits the purpose more.
-![](https://i.imgur.com/P0CZmaG.png)
+![](https://i.imgur.com/9ka4DvQ.png)
