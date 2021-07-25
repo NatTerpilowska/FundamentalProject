@@ -130,6 +130,6 @@ I used Jenkins to perform my Pytest testing. Below is a screenshot of the detail
 Natalie Terpilowska
 
 #### Acknowledgements
-Oliver Nichols
-Ryan Wright
-Victoria Sacre
+* Oliver Nichols
+* Ryan Wright
+* Victoria Sacre
