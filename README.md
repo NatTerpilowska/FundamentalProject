@@ -92,20 +92,6 @@ Below is my finished ER diagram and how I would like my database to look like. I
 ![](https://i.imgur.com/qxomCQS.png)
 
 #### Testing
-I used Jenkins to perform my Pytest testing. Below is a screenshot of the results which got 100% coverage.
-Here is my Jenkins script:
-
-sudo apt-get install chromium-browser -y python3 python3-pip python3-venv wget unzip -y
-
-
-python3 -m venv venv
-source venv/bin/activate
-
-pip3 install flask flask-sqlalchemy flask-wtf wtforms pytest pytest-cov flask-testing selenium
-
-#run tests
-python3 -m pytest
-python3 -m pytest --cov=application
-
+I used Jenkins to perform my Pytest testing. Below is a screenshot of the detailed results of my coverage.
 
 ![image](https://user-images.githubusercontent.com/86067593/126895038-0038e237-32fb-4db2-a042-bf01099743ad.png)
