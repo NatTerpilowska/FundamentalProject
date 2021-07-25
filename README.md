@@ -79,8 +79,8 @@ Refresh
 ![](https://i.imgur.com/HRoeBy9.png)
 
 #### Link to my Trello Board:
-https://trello.com/b/GemvxO82/project-management
-
+https://trello.com/b/GemvxO82
+It changed a lot since I first started it!
 #### ER
 
 My planned ER looked as follows, hovewer - half way through making it I realised that the login functionality is not something I want to implement into my project, so I removed it and made a new one.
