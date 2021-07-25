@@ -111,3 +111,4 @@ I used Jenkins to perform my Pytest testing. Below is a screenshot of the detail
 #### Future Improvements
 * I would really like the user to be able to display a card to clearly see where the story inspiration came from.
 * I would like to add more functionality to edit the cards and their illustrations.
+* I would like the user to be able to generate a random story.
