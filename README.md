@@ -76,7 +76,7 @@ Refresh
 #### **My Risk Assessment**
   </p>
   
-![](https://i.imgur.com/RRHV86p.png)
+![](https://i.imgur.com/HRoeBy9.png)
 
 #### Link to my Trello Board:
 https://trello.com/b/GemvxO82/project-management
