@@ -1,3 +1,15 @@
+[Introduction](https://github.com/NatTerpilowska/WIP-FundamentalProject#introduction)
+[Proposal](https://github.com/NatTerpilowska/WIP-FundamentalProject#proposal)
+[Requirements](https://github.com/NatTerpilowska/WIP-FundamentalProject#requirements)
+[My tech stack](https://github.com/NatTerpilowska/WIP-FundamentalProject#my-tech-stack-will-be-as-follows)
+[CRUD](https://github.com/NatTerpilowska/WIP-FundamentalProject#my-crud-is-as-follows)
+[Risk Assessment](https://github.com/NatTerpilowska/WIP-FundamentalProject#my-risk-assessment)
+[Trello Board](https://github.com/NatTerpilowska/WIP-FundamentalProject#link-to-my-trello-board)
+[ER Diagram](https://github.com/NatTerpilowska/WIP-FundamentalProject#er)
+[ER Implementation](https://github.com/NatTerpilowska/WIP-FundamentalProject#here-is-what-and-how-i-actually-implemented-it-into-my-code)
+[Testing](https://github.com/NatTerpilowska/WIP-FundamentalProject#testing)
+[Frond End and Functions](https://github.com/NatTerpilowska/WIP-FundamentalProject#functions-and-front-end)
+[Future Improvements](https://github.com/NatTerpilowska/WIP-FundamentalProject#future-improvements)
 # **Introduction**
 
 
@@ -112,3 +124,11 @@ I used Jenkins to perform my Pytest testing. Below is a screenshot of the detail
 * I would really like the user to be able to display a card to clearly see where the story inspiration came from.
 * I would like to add more functionality to edit the cards and their illustrations.
 * I would like the user to be able to generate a random story.
+
+#### Author
+Natalie Terpilowska
+
+#### Acknowledgements
+Oliver Nichols
+Ryan Wright
+Victoria Sacre
