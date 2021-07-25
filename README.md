@@ -88,8 +88,8 @@ My planned ER looked as follows, hovewer - half way through making it I realised
 
 Below is my finished ER diagram and how I would like my database to look like. It's simplified and I find that it suits the purpose more.
 ![](https://i.imgur.com/9ka4DvQ.png)
-#### Here is how I implemented it into my code
-
+#### Here is what and how I actually implemented it into my code
+![](https://i.imgur.com/qxomCQS.png)
 
 #### Testing
 I used Jenkins to perform my Pytest testing. Below is a screenshot of the results which got 100% coverage.
