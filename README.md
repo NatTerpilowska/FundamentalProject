@@ -82,6 +82,7 @@ I have revisited this with solutions I actually applied with scenarios that did 
 
 #### Link to my Trello Board:
 https://trello.com/b/GemvxO82
+![](https://i.imgur.com/8A9ogon.png)
 It changed a lot since I first started it because I moved things into "completed".
 
 #### ER
