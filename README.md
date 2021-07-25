@@ -90,19 +90,19 @@ I used Jenkins to perform my Pytest testing. Below is a screenshot of the detail
 
 #### Functions and Front End
 
-This is the top of my page - I used a quick, premade CSS Bootstrap link in my templates to make it look nicer.
+* This is the top of my page - I used a quick, premade CSS Bootstrap link in my templates to make it look nicer.
 ![image](https://i.imgur.com/PWjxixl.png)
 
-Here is the navigation.
+* Here is the navigation.
 ![image](https://i.imgur.com/khGgsI8.png)
 
-Here is creation of a Card.
+* Here is creation of a Card.
 ![image](https://i.imgur.com/NlHjLnn.png)
 
 ![image](https://i.imgur.com/Werw7Sm.png)
 
-Here's creation of a Story prompt.
+* Here's creation of a Story prompt.
 ![image](https://i.imgur.com/GatMp9x.png)
 
-Here's how it will display and editing options.
+* Here's how it will display and editing options.
 ![image](https://i.imgur.com/vlrLXZy.png)
