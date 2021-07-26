@@ -119,7 +119,7 @@ I used Jenkins to perform my Pytest testing. Below is a screenshot of the detail
 ![image](https://i.imgur.com/GatMp9x.png)
 
 * Here's how it will display and editing options.
-![image](https://i.imgur.com/vlrLXZy.png)
+![image](https://i.imgur.com/HQjzegG.png)
 
 
 #### Future Improvements
